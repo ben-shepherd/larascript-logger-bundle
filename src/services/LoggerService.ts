@@ -5,7 +5,7 @@ import winston, { format } from "winston";
 /**
  * Winston logger service
  */
-class LoggerService implements ILoggerService {
+export class LoggerService implements ILoggerService {
   /**
    * Winston logger instance
    */
@@ -126,5 +126,3 @@ class LoggerService implements ILoggerService {
     console.log([...args]);
   }
 }
-
-export default LoggerService;

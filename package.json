@@ -1,6 +1,6 @@
 {
   "name": "@ben-shepherd/larascript-logger-bundle",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A logger for Larascript Framework",
   "repository": {
     "type": "git",

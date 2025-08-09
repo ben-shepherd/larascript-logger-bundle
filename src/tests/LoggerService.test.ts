@@ -1,7 +1,7 @@
 import { beforeEach, describe, expect, jest, test } from "@jest/globals";
 import winston from "winston";
 import { ILoggerConfig } from "../interfaces/Logger.t";
-import LoggerService from "../services/LoggerService";
+import { LoggerService } from "../services/LoggerService";
 
 // Mock winston
 jest.mock("winston", () => ({
