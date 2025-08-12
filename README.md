@@ -1,4 +1,4 @@
-# Larascript Logger Bundle
+# Larascript Logger
 
 A Winston-based logging service for the Larascript Framework. Provides structured logging with console and file output, featuring multiple log levels and exception handling.
 
