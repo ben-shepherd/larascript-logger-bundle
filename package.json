@@ -1,10 +1,10 @@
 {
-  "name": "@ben-shepherd/larascript-logger-bundle",
+  "name": "@ben-shepherd/larascript-logger",
   "version": "1.0.1",
-  "description": "A logger for Larascript Framework",
+  "description": "A flexible and extensible logger for the Larascript Framework, built on top of winston.",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ben-shepherd/larascript-logger-bundle"
+    "url": "git+https://github.com/ben-shepherd/larascript-logger"
   },
   "license": "ISC",
   "author": "ben.shepherd@gmx.com",

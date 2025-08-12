@@ -5,13 +5,13 @@ A Winston-based logging service for the Larascript Framework. Provides structure
 ## Installation
 
 ```bash
-npm install ben-shepherd/larascript-logger-bundle
+npm install ben-shepherd/larascript-logger
 ```
 
 ## Quick Start
 
 ```typescript
-import { LoggerService } from '@ben-shepherd/larascript-logger-bundle';
+import { LoggerService } from '@ben-shepherd/larascript-logger';
 
 // Initialize logger
 const logger = new LoggerService({
